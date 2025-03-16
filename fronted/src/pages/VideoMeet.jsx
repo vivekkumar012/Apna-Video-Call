@@ -5,7 +5,8 @@ import { Button } from '@mui/material';
 import VideocamIcon from '@mui/icons-material/Videocam';
 import VideocamOffIcon from '@mui/icons-material/VideocamOff'
 // import styles from "../styles/VideoComponent.module.css";
-import styles from "../../styles/VideoComponent.module.css";
+import styles from "@/styles/VideoComponent.module.css";
+
 
 import CallEndIcon from '@mui/icons-material/CallEnd'
 import MicIcon from '@mui/icons-material/Mic'
